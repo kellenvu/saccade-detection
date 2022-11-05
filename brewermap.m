@@ -1,4 +1,6 @@
 function [map,num,typ,scheme] = brewermap(N,scheme) %#ok<*ISMAT>
+% Code Source: https://www.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps
+%
 % The complete selection of ColorBrewer colorschemes (RGB colormaps).
 %
 % (c) 2014-2020 Stephen Cobeldick
