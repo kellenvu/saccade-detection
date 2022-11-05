@@ -14,4 +14,6 @@ Click `Detect Saccades`.
 
 # Demo
 
-<img src='https://i.imgur.com/DtXKTvo.png' width='800' alt='Demo' />
+<img src='https://i.imgur.com/DtXKTvo.png' width='800' alt='Demo'/>
+
+<img src='https://i.imgur.com/cX2yiOG.png' width='800' alt='Demo'/>
